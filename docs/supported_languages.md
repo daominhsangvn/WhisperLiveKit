@@ -108,7 +108,7 @@ WLK supports transcription in the following languages:
 
 # Translation: Supported Languages 
 
-WLK supports translation into **201 languages** from the FLORES-200 dataset through the [NLLW](https://github.com/QuentinFuxa/NoLanguageLeftWaiting) translation system. 
+WLK supports translation into **201 languages** from the FLORES-200 dataset through the [NLLW](https://github.com/daominhsangvn/NoLanguageLeftWaiting) translation system. 
 
 ## How to Specify Languages
 

@@ -113,7 +113,7 @@ url = "https://download.pytorch.org/whl/cu129"
 explicit = true
 
 [project.urls]
-Homepage = "https://github.com/QuentinFuxa/WhisperLiveKit"
+Homepage = "https://github.com/daominhsangvn/WhisperLiveKit"
 
 [project.scripts]
 whisperlivekit-server = "whisperlivekit.basic_server:main"
